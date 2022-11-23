@@ -34,5 +34,5 @@ for k in range(juegos):
 print('resultado es:')
 print(f'usuario {usuario} vs {pc} maquina')
 
-r.rojas@coex.com.co
+#r.rojas@coex.com.co
 
